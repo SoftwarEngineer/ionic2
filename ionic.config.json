@@ -1,0 +1,8 @@
+{
+  "name": "denemeproject",
+  "app_id": "8579b681",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
